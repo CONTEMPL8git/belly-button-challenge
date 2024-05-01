@@ -12,7 +12,7 @@ Challenge 14 uses D3 to to read in samples.json from the URL. And it uses Plotly
 
 ## Sources
 
-Help by Reza, tutor
+Help by Reza and Brandon, tutors
 
 ## License
 
